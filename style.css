@@ -1,0 +1,64 @@
+h1{
+font-size: 50px;
+
+}
+
+figcaption{
+  padding: 25px 10px 25px 10px;
+  font-size: 20px;
+}
+ul{
+
+  text-align: left;
+  margin-left: 300px;
+  margin-right: 300px;
+
+
+}
+li{
+  padding: 15px;
+
+
+
+}
+
+.quote{
+  text-align: left;
+  margin: 75px 200px 75px 300px;
+
+}
+.wiki{
+  text-align: center;
+  font-size: 20px;
+}
+
+.list-div{
+  font-size: 20px;
+  margin-top: 60px;
+}
+#image{
+  width: 100%;
+  height: auto;
+
+}
+
+#main{
+  background: #eee;
+  border-radius: 1%;
+  padding-bottom: 25px;
+  margin-bottom: 40px;
+}
+
+#title {
+  text-align: center;
+  padding-top: 30px;
+}
+
+#img-div{
+  text-align: center;
+  background-color: white;
+  margin: 50px 10px;
+}
+#tribute-info{
+  text-align: center;
+}
